@@ -1,6 +1,6 @@
 # Transform The Village
 
-![Transform The Village Logo](link-to-logo.png)
+![Transform The Village Logo](./TransformTheVillage_HomePage_files/Logo2.png)
 
 Transform The Village is dedicated to enhancing education through Positive Behavioral Interventions and Supports (PBIS) implementation. We offer comprehensive services to schools, educators, and administrators.
 
